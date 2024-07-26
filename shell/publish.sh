@@ -4,7 +4,7 @@ set -e
 git pull origin master
 git pull github master
 
-git add .
+git add -A
 git commit -m 'update figure'
 
 # # 上传到gitee仓库
