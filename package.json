@@ -1,0 +1,11 @@
+{
+  "name": "figure",
+  "version": "1.0.0",
+  "description": "博客图床仓库",
+  "scripts": {
+    "start": "sh shell/publish.sh"
+  },
+  "keywords": [],
+  "author": "kimshift",
+  "license": "ISC"
+}
