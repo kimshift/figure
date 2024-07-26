@@ -1,7 +1,8 @@
 # 确保脚本抛出遇到的错误
 set -e
 
-git pull
+git pull origin master
+git pull github master
 
 git add .
 git commit -m 'update figure'
